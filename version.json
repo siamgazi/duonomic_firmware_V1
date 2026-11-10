@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/siamgazi/duonomic_firmware_V1/releases/download/v1.0.3/esp_now_master.ino.bin",
-  "url": "https://github.com/siamgazi/duonomic_firmware_V1/releases/download/v1.0.3/esp_now_slave.ino.bin",
+  "version": "1.0.4",
+  "url": "https://github.com/siamgazi/duonomic_firmware_V1/releases/download/v1.0.4/esp_now_master.ino.bin",
+  "url": "https://github.com/siamgazi/duonomic_firmware_V1/releases/download/v1.0.4/esp_now_slave.ino.bin",
   "notes": "LATEST VERSION"
 }
